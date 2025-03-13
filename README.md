@@ -23,5 +23,5 @@ Paso 3 -> Nos pedirá seleccionar la carpeta donde se encuentren todos los apunt
 
 Paso 4 -> Empezar a estudiar :)
 
-![image]([![image](image.jpg))
+![image](image.jpg)
 )
