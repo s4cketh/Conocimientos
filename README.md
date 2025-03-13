@@ -23,5 +23,5 @@ Paso 3 -> Nos pedirá seleccionar la carpeta donde se encuentren todos los apunt
 
 Paso 4 -> Empezar a estudiar :)
 
-![image]([![image](https://github.com/user-attachments/assets/c6030bc2-f739-4850-aac6-903898129710](https://raw.githubusercontent.com/s4cketh/Conocimientos/refs/heads/master/image.webp))
+![image]([![image](image.jpg))
 )
