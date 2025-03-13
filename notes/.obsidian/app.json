@@ -1,0 +1,10 @@
+{
+  "autoConvertHtml": true,
+  "uriCallbacks": false,
+  "defaultViewMode": "source",
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}

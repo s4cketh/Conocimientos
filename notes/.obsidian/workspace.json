@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "0e34ca46d5857713",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc5d1bd0729d220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd718ac0a8f37ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conocimientos - 0001/Linux/15 - Uso de bashrc y szhrc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 - Uso de bashrc y szhrc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "091842a517dcf30b",
+    "type": "split",
+    "children": [
+      {
+        "id": "229acec4171042f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069a77e204aa2bb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d105f9d881284a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82e0f6ee89ceb26d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b92bb5a702d794a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa77e0ae678f21f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2511ac2e2bbe1020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conocimientos - 0001/Linux/0 - Linux introducción.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0 - Linux introducción"
+            }
+          },
+          {
+            "id": "ec53bb894354361e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conocimientos - 0001/Linux/0 - Linux introducción.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0 - Linux introducción"
+            }
+          },
+          {
+            "id": "0c2cdcd23b45ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3da971554f311a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conocimientos - 0001/Linux/0 - Linux introducción.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0 - Linux introducción"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dcd718ac0a8f37ea",
+  "lastOpenFiles": [
+    "BASICO 1.md",
+    "Conocimientos - 0001/Linux/15 - Uso de bashrc y szhrc.md",
+    "Redes/Que es una ip.md",
+    "Conocimientos - 0001/Linux/14 - Estructura de directorios del sistema.md",
+    "Conocimientos - 0001/Linux/16 - Actualizacion y upgradeo del sistema -------- falta.md",
+    "Conocimientos - 0001/Linux/28 - Busquedas precisas {2 - 2}.md",
+    "Conocimientos - 0001/Linux/2 - Comandos basicos  Linux (2 - 2).md",
+    "Conocimientos - 0001/Linux/1 - Comandos basicos Linux (1 - 2).md",
+    "Conocimientos - 0001/Linux/3 - Control de flujo stdeer-stdout, operadores y procesos en segundo plano.md",
+    "Conocimientos - 0001/Linux/0 - Linux introducción.md",
+    "Conocimientos - 0001/Linux/6 - Lectura e interpretacion de permisos {2 - 2}.md",
+    "Conocimientos - 0001/Linux/4 - Descriptores de archivo.md",
+    "Redes",
+    "ME",
+    "INGLES/THIS, THESE ,THERE.md",
+    "INGLES/THEY, THOSE.md",
+    "INGLES",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312200553.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312200830.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312200820.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312200655.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312200244.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312195002.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312194916.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312194613.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312194742.png",
+    "Conocimientos - 0001/Linux/attachments/Pasted image 20250312194423.png",
+    "Conocimientos - 0001/Linux/Untitled 5.md",
+    "Conocimientos - 0001/Linux/Untitled 4.md",
+    "Conocimientos - 0001/Linux/Untitled 3.md",
+    "Conocimientos - 0001/Linux/Untitled 2.md",
+    "Conocimientos - 0001/Linux/Untitled 1.md",
+    "Conocimientos - 0001/Linux/9 - Notacion octal de permisos.md",
+    "Conocimientos - 0001/Linux/attachments",
+    "Conocimientos - 0001/Linux/8 - Asignacion de permisos {2 - 2}.md",
+    "Conocimientos - 0001/Linux/7 - Asignacion de permisos {1 - 2}.md",
+    "Conocimientos - 0001/Linux/55 - Argumentos posicionales en Bash.md",
+    "Conocimientos - 0001/Linux/53 - Operando con proyectos de Github {4- 5}.md",
+    "Conocimientos - 0001/Linux/54 - Operando con proyectos de Github {5- 5}.md",
+    "Conocimientos - 0001/Linux/52 - Operando con proyectos de Github {4- 5}.md",
+    "Conocimientos - 0001/Linux",
+    "Conocimientos - 0001",
+    "conocimientoo/Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting/XSS-Game",
+    "conocimientoo/Coding/Python/Generico/Librerías/Librería Subprocess",
+    "conocimientoo/Coding/Python/Generico/Librerías/Librería Sockets",
+    "conocimientoo/Coding/Python/Generico/Librerías/Librería Pandas"
+  ]
+}
