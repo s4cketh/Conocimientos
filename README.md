@@ -11,7 +11,7 @@ Para descargar e importar estos apuntes correctamente a Obsidian, deberemos segu
 
 Paso 1 -> Descomprimir el fichero .zip o rar:
 
-233777713-727aea0a-ec60-4b54-bf51-5b83d9eda38e.png
+![image](233777713-727aea0a-ec60-4b54-bf51-5b83d9eda38e.png)
 
 Paso 2 -> Abrimos Obsidian y elegimos la opción de abrir carpeta como bóveda:
 
