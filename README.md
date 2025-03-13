@@ -11,7 +11,7 @@ Para descargar e importar estos apuntes correctamente a Obsidian, deberemos segu
 
 Paso 1 -> Descomprimir el fichero .zip o rar:
 
-![image](233777713-727aea0a-ec60-4b54-bf51-5b83d9eda38e.png)
+![image](https://user-images.githubusercontent.com/96432001/233777713-727aea0a-ec60-4b54-bf51-5b83d9eda38e.png)
 
 Paso 2 -> Abrimos Obsidian y elegimos la opción de abrir carpeta como bóveda:
 
@@ -23,4 +23,5 @@ Paso 3 -> Nos pedirá seleccionar la carpeta donde se encuentren todos los apunt
 
 Paso 4 -> Empezar a estudiar :)
 
-![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
+![image](![image](https://github.com/user-attachments/assets/c6030bc2-f739-4850-aac6-903898129710)
+)
